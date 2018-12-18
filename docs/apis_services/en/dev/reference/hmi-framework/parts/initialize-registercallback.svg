@@ -26,6 +26,7 @@
 <option value='eel'>eel</option>
 <option value='flounder'>flounder</option>
 <option value='master' selected='selected'>master</option>
+<option value='sandbox/jobol/spec-2089'>sandbox/jobol/spec-2089</option>
 <option value='sandbox/wangzhiqiang/app_manager'>sandbox/wangzhiqiang/app_manager</option>
 <option value='sandbox/wangzhiqiang/ces_2019'>sandbox/wangzhiqiang/ces_2019</option>
 <option value='sandbox/wangzhiqiang/new_verbs'>sandbox/wangzhiqiang/new_verbs</option>
